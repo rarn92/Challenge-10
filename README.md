@@ -1,5 +1,10 @@
 # 10 Object-Oriented Programming: Team Profile Generator
 
+## Video preview
+
+![Untitled_ Sep 5, 2022 10_57 AM](https://user-images.githubusercontent.com/106767290/188485763-0b4a18a9-9265-4999-9c57-30f4b1b6bb07.gif)
+
+
 ## Overview
 
 Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
